@@ -80,14 +80,13 @@ Beavs AI is an application that provides an AI Chatbot that is knowledgeable abo
             Sean Gutmann
             </a>
         </td>
-
         <!-- TEMPLATE BELOW (uncomment to include) -->
-        <!-- <td align="center">
-          <a href="https://github.com/[username]">
-            <img src="https://images.weserv.nl/?url=github.com/[username].png&fit=cover&mask=circle" width="80"><br>
-            [Full Name]
-            </a>
-        </td>  -->
+         <td align="center">
+          <a href="https://github.com/AdwaithRenjith">
+            <img src="https://images.weserv.nl/?url=github.com/AdwaithRenjith.png&fit=cover&mask=circle" width="80"><br>
+            Adwaith Renjith
+         </a>
+        </td> 
       </tr>
     </tbody>
 
